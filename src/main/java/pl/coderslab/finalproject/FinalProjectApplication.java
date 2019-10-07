@@ -1,13 +1,13 @@
-package pl.denisbojdol.trip;
+package pl.coderslab.finalproject;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TripApplication {
+public class FinalProjectApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(TripApplication.class, args);
+        SpringApplication.run(FinalProjectApplication.class, args);
     }
 
 }
